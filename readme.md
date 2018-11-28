@@ -16,7 +16,7 @@ Product page
 Pull in the extension through Composer:
 
 ```php
-composer require mikielis/magento2-module-call-us-message
+composer require "mikielis/magento2-module-call-us-message:*"
 ```
 
 Learn more on how to install Magento 2 extensions from the command line and follow listed steps:
