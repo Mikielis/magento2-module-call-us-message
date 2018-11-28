@@ -3,7 +3,7 @@
   "description": "Call us message on product page when item is out of stock, Magento 2 module",
   "type": "magento2-module",
   "license": [
-    "OSL-3.0"
+    "MIT"
   ],
   "version": "1.0.0",
   "require": {
